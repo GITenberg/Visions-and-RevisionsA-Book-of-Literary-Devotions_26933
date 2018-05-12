@@ -1,0 +1,33 @@
+_repo: Visions-and-RevisionsA-Book-of-Literary-Devotions_26933
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Powys, John Cowper
+    birthdate: 1872
+    deathdate: 1963
+    gutenberg_agent_id: '4710'
+    url: http://www.gutenberg.org/2009/agents/4710
+    wikipedia: http://en.wikipedia.org/wiki/John_Cowper_Powys
+description: ''
+gutenberg_issued: '2008-10-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26933'
+  lccn: '15003666'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Literature, Modern -- History and criticism'
+- !lcc 'PN'
+tableOfContents: Rabelais -- Dante -- Shakespeare -- El Greco -- Milton -- Charles
+  Lamb -- Dickens -- Goethe -- Matthew Arnold -- Shelley -- Keats -- Nietzsche --
+  Thomas Hardy -- Walter Pater -- Dostoievsky -- Edgar Allen Poe -- Walt Whitman.
+title: 'Visions and Revisions
+
+  A Book of Literary Devotions'
+url: http://www.gutenberg.org/ebooks/26933
